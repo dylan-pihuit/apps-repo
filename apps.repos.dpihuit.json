@@ -1,0 +1,25 @@
+{
+  "name": "Apps Repos dpihuit",
+  "apps": [
+    {
+      "name": "ESign",
+      "version": "5.0.2",
+      "bundleID": "p3.xyz.yyyue.esign",
+      "developerName": "Easy Sign",
+      "iconURL": "https://www.icloud.com/iclouddrive/095YnB5crwzSPqLzuNzLmYxZA#esign",
+      "downloadURL": "https://www.icloud.com/iclouddrive/05cFwC2RFxoZq-XtCIvJG_p0w#esign_5.0",
+      "description": "IPA Signer",
+      "compatibility": "iOS 14+"
+    },
+    {
+      "name": "Nom de l'app 2",
+      "version": "2.0",
+      "bundleID": "com.example.app2",
+      "developerName": "Nom du développeur",
+      "iconURL": "https://votre-site.com/icones/icon2.png",
+      "downloadURL": "https://votre-site.com/apps/app2.ipa",
+      "description": "Description de l'application",
+      "compatibility": "iOS 13+"
+    }
+  ]
+}

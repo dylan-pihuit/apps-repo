@@ -1,0 +1,25 @@
+{
+  "name": "Nom de votre bibliothèque",
+  "apps": [
+    {
+      "name": "Nom de l'app",
+      "version": "1.0",
+      "bundleID": "com.example.app",
+      "developerName": "Nom du développeur",
+      "iconURL": "https://votre-site.com/icones/icon.png",
+      "downloadURL": "https://votre-site.com/apps/app1.ipa",
+      "description": "Description de l'application",
+      "compatibility": "iOS 14+"
+    },
+    {
+      "name": "Nom de l'app 2",
+      "version": "2.0",
+      "bundleID": "com.example.app2",
+      "developerName": "Nom du développeur",
+      "iconURL": "https://votre-site.com/icones/icon2.png",
+      "downloadURL": "https://votre-site.com/apps/app2.ipa",
+      "description": "Description de l'application",
+      "compatibility": "iOS 13+"
+    }
+  ]
+}
